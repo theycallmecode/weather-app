@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌦️ Weather Dashboard
 
 A sleek and modern **Weather Dashboard** built with the **MERN stack** (MongoDB, Express.js, React, Node.js).  
