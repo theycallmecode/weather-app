@@ -27,18 +27,3 @@ The dashboard is styled with clean, responsive CSS for an intuitive user experie
 | **Environment** | dotenv for secure configuration |
 
 ---
-
-## 🚀 Getting Started
-
-Follow these steps to set up and run the Weather Dashboard locally.
-
-### Prerequisites
-
-- **[Node.js](https://nodejs.org/)** (v14 or higher)
-- **[MongoDB](https://www.mongodb.com/)** (Local or MongoDB Atlas)
-- **[OpenWeatherMap API Key](https://openweathermap.org/api)** (Sign up for free)
-
----
-=======
-# weather-app
->>>>>>> b1586a93112b6d48a6fc6b48738218798f142892
