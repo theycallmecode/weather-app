@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌦️ Weather Dashboard
 
 A sleek and modern **Weather Dashboard** built with the **MERN stack** (MongoDB, Express.js, React, Node.js).  
@@ -39,3 +40,6 @@ Follow these steps to set up and run the Weather Dashboard locally.
 - **[OpenWeatherMap API Key](https://openweathermap.org/api)** (Sign up for free)
 
 ---
+=======
+# weather-app
+>>>>>>> b1586a93112b6d48a6fc6b48738218798f142892
